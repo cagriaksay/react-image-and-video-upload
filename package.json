@@ -17,12 +17,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cagriaksay/react-images-uploading"
+    "url": "https://github.com/cagriaksay/react-image-and-video-upload"
   },
   "bugs": {
-    "url": "https://github.com/cagriaksay/react-images-uploading/issues"
+    "url": "https://github.com/cagriaksay/react-image-and-video-upload/issues"
   },
-  "homepage": "https://github.com/cagriaksay/react-images-uploading/blob/master/README.md",
+  "homepage": "https://github.com/cagriaksay/react-image-and-video-upload/blob/master/README.md",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "typings": "dist/index.d.ts",
